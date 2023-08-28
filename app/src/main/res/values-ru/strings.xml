@@ -8,6 +8,7 @@
     <string name="common_word_create">Создать</string>
     <string name="common_word_icon">Иконка</string>
     <string name="common_word_projects">Проекты</string>
+    <string name="common_word_reset">Reset</string>
     <string name="common_word_settings">Настройки</string>
     <!-- Not implemented view -->
     <!-- Do not translate/edit the word "GitHub", it breaks the application -->
@@ -26,4 +27,10 @@
     <string name="version_code">Код версии</string>
     <string name="package_name">Название пакета</string>
     <string name="project_advanced_options">Расширенные параметры</string>
+    <!-- Main Activity -->
+    <string name="search_projects">Search projects</string>
+    <!-- Design Activity -->
+    <string name="view">View</string>
+    <string name="event">Event</string>
+    <string name="component">Component</string>
 </resources>
